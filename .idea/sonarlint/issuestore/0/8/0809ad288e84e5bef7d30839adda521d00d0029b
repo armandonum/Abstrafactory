@@ -1,0 +1,14 @@
+
+˜	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®­½úÿÿÿÿ8ÈÁ‰‚ê1J$a4ff1248-4aa1-4b5b-a472-7d230f319545
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÍÚ•şÿÿÿÿ8ÉÁ‰‚ê1J$d8bfd357-799c-44f0-ad27-71757ddcc743
+¥
+java:S4165&"bRemove this useless assignment; "peso" already holds the assigned value along all execution paths.(¬±Š 8ş„Š‚ê1J$da40acd8-3e64-496f-92df-5c419c243cb2
+	java:S116"VRename this field "tamaÃ±oAlas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°œ¤Şùÿÿÿÿ8ÎÁ‰‚ê1J$652b0ecf-3d19-46f0-8ec6-8f616dc432e4
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÜÒ´8ˆâ„ê1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ÍÚ•şÿÿÿÿ8‰â„ê1
+r	java:S106+"+Replace this use of System.out by a logger.(ú¿çñüÿÿÿÿ8…’ƒê1J$a8bc3e44-a52b-490f-8909-db763e54e7a3
+r	java:S1060"+Replace this use of System.out by a logger.(•±ËÛüÿÿÿÿ8Âá’ƒê1J$cdf38506-966c-4088-b2aa-3f48bf6ff9c6
+r	java:S1065"+Replace this use of System.out by a logger.(Ê…úšıÿÿÿÿ8¹Â“ƒê1J$21dcbafd-c360-40cf-9f1c-56f6c0795656
+r
+java:S1656&"/Remove or correct this useless self-assignment.(¬±Š 8‰…Š‚ê1J$c6209587-5c8c-4eb1-bac0-2360f7170b66
